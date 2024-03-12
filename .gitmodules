@@ -4,3 +4,6 @@
 [submodule "calculator"]
 	path = calculator
 	url = git@github.com:sunmukhsc/calculator.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = git@github.com:sunmukhsc/etch-a-sketch.git
