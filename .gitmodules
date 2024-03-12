@@ -13,3 +13,6 @@
 [submodule "rock-paper-scissors"]
 	path = rock-paper-scissors
 	url = git@github.com:sunmukhsc/rock-paper-scissors.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = git@github.com:sunmukhsc/tic-tac-toe.git
