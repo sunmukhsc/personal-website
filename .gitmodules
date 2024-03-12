@@ -7,3 +7,6 @@
 [submodule "etch-a-sketch"]
 	path = etch-a-sketch
 	url = git@github.com:sunmukhsc/etch-a-sketch.git
+[submodule "library"]
+	path = library
+	url = git@github.com:sunmukhsc/library.git
