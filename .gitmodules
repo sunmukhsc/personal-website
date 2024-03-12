@@ -10,3 +10,6 @@
 [submodule "library"]
 	path = library
 	url = git@github.com:sunmukhsc/library.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = git@github.com:sunmukhsc/rock-paper-scissors.git
